@@ -1,7 +1,13 @@
+
 {
-    "workbench.colorTheme": "Solarized Light",
-    "editor.fontSize": 16,
-    "editor.formatOnSave": true,
-    "editor.fontFamily": "'Fira Code'",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-}
+    "editor.fontSize": 18,
+    "debug.console.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "editor.suggestFontSize": 18,
+    }
